@@ -1,0 +1,15 @@
+Package: prueba
+Version: 0.1-1
+Architecture: amd64
+Maintainer: Álvaro de Castro García <alvdegar2@alum.us.es>
+Installed-Size: 48
+Provides: prueba
+Filename: pool/main/prueba_0.1-1_amd64.deb
+Size: 2944
+MD5sum: 025886aba885803dea95205252647ee6
+SHA1: eead0cd160c6f5da2fbbca16c76f679b4dbc12a1
+SHA256: 954a3349e0eb6ba0a3c258d626633c7fdbe544adfc3efc16c8a57544feed67ae
+Section: checkinstall
+Priority: extra
+Description: Paquete de prueba que contiene un ejecutable, "prueba", el cual imprimirá un texto por defecto al ser ejecutado.
+

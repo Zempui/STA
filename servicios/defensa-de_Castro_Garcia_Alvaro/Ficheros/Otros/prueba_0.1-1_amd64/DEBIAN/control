@@ -1,0 +1,7 @@
+Source: prueba
+Maintainer: Álvaro de Castro García <alvdegar2@alum.us.es>
+Package: prueba
+Version: 0.1
+Architecture: amd64
+Description: "prueba" es un sencillo programa que imprime por
+ pantalla un texto por defecto si ha sido correctamente instalado.
